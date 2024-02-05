@@ -1,0 +1,2 @@
+module Voltagedivider:
+    signal gnd
